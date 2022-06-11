@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-<main class="pt-5">
+<main class="pt-5 container">
   <section>
     <?php get_template_part('company'); ?>
   </section>
